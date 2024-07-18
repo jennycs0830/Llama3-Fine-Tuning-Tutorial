@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+cache/
+outputs/
+wandb/
+train_data.json
+valid_data.json
